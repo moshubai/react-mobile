@@ -2,7 +2,8 @@
 *.log
 node_modules
 coverage
-.idea/
+.idea
 .yarn-cache
-.vscode/
-.git/
+.vscode
+.git
+dist
